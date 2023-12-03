@@ -10,7 +10,7 @@ ARENA_DOWN = WIN_HEIGHT - ARENA_HEIGHT
 HEALTH_BAR_X = 530
 HEALTH_BAR_Y = 45
 
-CHARACTER_HEALTH = 1
+CHARACTER_HEALTH = 3
 
 FPS = 30
 TILESIZE = 50
@@ -63,13 +63,13 @@ r2_l1 = [
 
 r3_l1 = [
     'BBBBBBBBBBBBBBB',
-    'B.............B',
-    'B.............B',
-    'B.............B',
+    'B..E......E...B',
+    'B.BBBB...BBBB.B',
+    'B.B..B...B..B.B',
     'D......P......D',
-    'B.............B',
-    'B...E.........B',
-    'B..........E..B',
+    'B.B..B...B..B.B',
+    'B.BBBB...BBBB.B',
+    'B..E.......E..B',
     'BBBBBBBSBBBBBBB'
 ]
 
